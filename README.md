@@ -18,7 +18,7 @@ Update EC2 security-group settings for your instance to allow HTTP traffic to po
 Launch API endpoints
 Clone repository.
 
-git clone https://github.com/computervisiondeveloper/face-attendance-web-app-react-python.git
+git clone https://github.com/Ammb305/facial-attendace-web-app.git
 
 cd face-attendance-web-app-react-python
 Install Python 3.8, create a virtual environment and install requirements.
@@ -74,9 +74,9 @@ sudo service nginx restart
 Update EC2 security-group settings for your instance to allow HTTP traffic to port 80.
 
 Launch App
-git clone https://github.com/computervisiondeveloper/face-attendance-web-app-react-python.git
+git clone https://github.com/Ammb305/facial-attendace-web-app.git
 
-cd face-attendance-web-app-react-python
+cd facial-attendance-web-app
 
 cd frontend/face-attendance-web-app-front/
 
