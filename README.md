@@ -88,6 +88,3 @@ npm start
 
 Edit the value of API_BASE_URL in src/API.js with the IP of the backend server.
 
-Automated Infrastructure: Provisioned EC2 instances and configured security groups using Terraform
-
-![terraform-aws-diagram](https://github.com/user-attachments/assets/0ca1fc35-c1ae-4455-ae03-d60a1c38e1ba)
